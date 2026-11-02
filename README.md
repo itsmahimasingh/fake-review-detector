@@ -1,4 +1,7 @@
-Fake Review Detector
+Fake Review Detector 
+
+🔗 **Live demo:** [fake-review-detector-mahima.streamlit.app](https://fake-review-detector-mahima.streamlit.app)
+
 A machine learning web app that predicts whether a product review is genuine or fake (computer-generated).
 🔗 Live demo: fake-review-detector.streamlit.app <!-- replace with your real link -->
 📌 Problem
